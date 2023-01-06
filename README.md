@@ -1,6 +1,11 @@
 # Laravel 9 and Svelte 3 with Inertia and Vite
 
-A ready to develop [Laravel](https://laravel.com/) and [Svelte](https://svelte.dev/) SPA using [Inertia](https://inertiajs.com/)
+- Laravel 9
+- Svelte 3
+- Inertia
+- Vite
+- Tailwind
+- DaisyUI
 
 ## Installation
 
